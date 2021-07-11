@@ -73,9 +73,9 @@ pinMode(7,OUTPUT);  //7号引脚输出
 
 void loop(  ){
 
-digitalwrite(7,HIGH);  //控制7号引脚高电压
+digitalWrite(7,HIGH);  //控制7号引脚高电压
 
-Digitalread(7);     //读取7号引脚电压状态，返回HIGH or LOW
+digitalRead(7);     //读取7号引脚电压状态，返回HIGH or LOW
 
 }
 ```
