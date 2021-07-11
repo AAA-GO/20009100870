@@ -71,7 +71,7 @@ pinMode(7,OUTPUT);  //7号引脚输出
 
 }
 
-Void loop(  ){
+void loop(  ){
 
 digitalwrite(7,HIGH);  //控制7号引脚高电压
 
