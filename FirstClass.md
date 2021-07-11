@@ -9,7 +9,7 @@
 ```bash
 	git clone  //(.......地址)  复制到电脑
 
-​   git add * 
+​        git add * 
 
 ​	git commit -m "  ...  "   //(注释)        和上一步一起将文件上传至本地
 
