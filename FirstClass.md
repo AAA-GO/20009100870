@@ -30,7 +30,7 @@ Vscode 环境配置之一
 
 ​	以计算机为例 :
 
-![](./picture/p1.png) 
+![img](./picture/p1.png) 
 
  
 
@@ -54,7 +54,7 @@ Vscode 环境配置之一
 >
 >   LED   长正短负
 
-![](./picture/p2.png) 
+![img](./picture/p2.png) 
 
 #### 电路代码相关
 
